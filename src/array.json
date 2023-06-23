@@ -1,0 +1,53 @@
+{
+    "Q1": {
+        "Kolkata": {
+            "Milk": 340,
+            "Egg": 604,
+            "Bread": 38
+        },
+        "Delhi": {
+            "Milk": 335,
+            "Egg": 365,
+            "Bread": 35
+        },
+        "Mumbai": {
+            "Milk": 336,
+            "Egg": 484,
+            "Bread": 85
+        }
+    },
+    "Q2": {
+        "Kolkata": {
+            "Milk": 680,
+            "Egg": 583,
+            "Bread": 10
+        },
+        "Delhi": {
+            "Milk": 684,
+            "Egg": 490,
+            "Bread": 48
+        },
+        "Mumbai": {
+            "Milk": 595,
+            "Egg": 594,
+            "Bread": 39
+        }
+    },
+    "Q3": {
+        "Kolkata": {
+            "Milk": 535,
+            "Egg": 490,
+            "Bread": 50
+        },
+        "Delhi": {
+            "Milk": 389,
+            "Egg": 385,
+            "Bread": 15
+        },
+        "Mumbai": {
+            "Milk": 366,
+            "Egg": 385,
+            "Bread": 20
+        }
+    }
+}
